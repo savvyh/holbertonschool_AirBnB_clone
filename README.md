@@ -29,6 +29,10 @@ This is the part that I worked on and that I would like to present through this 
 - Get the database : `curl -o 100-dump.sql "https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-higher-level_programming+/290/100-hbnb.sql"`
 - Read the database and execute it to the MySQL server : `cat 100-dump.sql | mysql -uroot -p`
 
+## Handle error ❎
+- If somthing wrong, you can clone from this repository : `https://github.com/savvyh/holbertonschool-AirBnB_clone_v4`<br>
+-> This is the repository of my group.
+
 ## Illustrations :arrow_double_down:
 ##### 1. First page when web browser is open : <br>
 ![image](https://github.com/savvyh/holbertonschool_AirBnB_clone/assets/139894873/27776e6d-bc0a-4e63-9c24-45b650362aa3) <br>
@@ -40,6 +44,6 @@ This is the part that I worked on and that I would like to present through this 
 ![image](https://github.com/savvyh/holbertonschool_AirBnB_clone/assets/139894873/cf2b8370-8da0-4bec-b078-54001dfc0cf6) <br>
 
 ## Authors 🧞‍♀️🧞
-Sarah Boutier
-Tuyen Huynh
-Haris Hammache
+* Sarah Boutier
+* Tuyen Huynh
+* Haris Hammache
