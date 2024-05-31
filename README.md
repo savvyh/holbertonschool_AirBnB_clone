@@ -30,6 +30,14 @@ This is the part that I worked on and that I would like to present through this 
 - Read the database and execute it to the MySQL server : `cat 100-dump.sql | mysql -uroot -p`
 
 ## Illustrations :arrow_double_down:
+##### 1. First page when web browser is open : <br>
+![image](https://github.com/savvyh/holbertonschool_AirBnB_clone/assets/139894873/27776e6d-bc0a-4e63-9c24-45b650362aa3) <br>
+
+##### 2. Adding checkbox to choose options : <br>
+![image](https://github.com/savvyh/holbertonschool_AirBnB_clone/assets/139894873/e9fbc588-2aa7-41b5-859c-2d0a129850c7) <br>
+
+##### 3. Click on the "search" button and filters places according to the selected options : <br>
+![image](https://github.com/savvyh/holbertonschool_AirBnB_clone/assets/139894873/cf2b8370-8da0-4bec-b078-54001dfc0cf6) <br>
 
 ## Authors 🧞‍♀️🧞
 Sarah Boutier
